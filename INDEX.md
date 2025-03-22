@@ -1,4 +1,4 @@
-**Nombre total de définitions : ` 845 `**
+**Nombre total de définitions : ` 846 `**
 
 ### A
 
@@ -688,6 +688,7 @@
 - [PHOENIXD](./dictionnaire/P.md#phoenixd)
 - [PHRASE DE RÉCUPÉRATION](./dictionnaire/P.md#phrase-de-récupération)
 - [PILE](./dictionnaire/P.md#pile)
+- [PILULE ORANGE](./dictionnaire/P.md#pilule-orange)
 - [PIZZA DAY](./dictionnaire/P.md#pizza-day)
 - [POINT D'ENTRÉE](./dictionnaire/P.md#point-dentrée)
 - [POLICY (MINISCRIPT)](./dictionnaire/P.md#policy-miniscript)

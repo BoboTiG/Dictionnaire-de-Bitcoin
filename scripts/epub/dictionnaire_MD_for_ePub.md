@@ -4,7 +4,7 @@
 Dictionnaire de Bitcoin : Tout le vocabulaire technique de Bitcoin
 
 
-Version du 09 mars 2025
+Version du 22 mars 2025
 
 https://github.com/LoicPandul/Dictionnaire-de-Bitcoin
 
@@ -5552,6 +5552,15 @@ Dans l'exécution d'un script Bitcoin, 2 piles peuvent être utilisées : la pil
 Par exemple, lors de la validation d'une transaction, les signatures et les clés publiques sont poussées sur la pile principale et traitées par des opcodes successifs pour vérifier que les signatures correspondent aux clés et aux données de la transaction.
 
 > ► *En anglais, la traduction de « pile » est « stack ». On utilise généralement le terme anglais même en français lors de discussions techniques. Pour plus d'informations, voir les définitions de **[SCRIPT](#script)** et **[OPCODES](#opcodes)**.*
+
+## PILULE ORANGE
+▪ **Histoire**
+
+► ***EN : ORANGE PILL***
+
+Inspirée du film *Matrix*, cette pilule imaginaire éveille à la conscience de Bitcoin. 
+
+> ► *S'utilise également comme verbe. Orange-piller quelqu'un = l'enrôler dans Bitcoin.*
 
 ## PIZZA DAY
 ▪ **Histoire**

@@ -48,7 +48,7 @@ header-includes:
 \textbf{© 2024 Loïc Morel}\newline
 \textbf{\textit{Dictionnaire de Bitcoin : Tout le vocabulaire technique de Bitcoin}}\newline
 \newline
-Version du 09 mars 2025\newline
+Version du 22 mars 2025\newline
 https://github.com/LoicPandul/Dictionnaire-de-Bitcoin\newline
 \newline
 Cet ouvrage est sous licence CC BY-NC-SA 4.0\newline
@@ -605,9 +605,9 @@ Le 24 avril 2024, les deux cofondateurs de Samourai Wallet ont été injustement
 | | | | |
 |:---------------------------|--:|:---------------------------|--:|
 | | | | |
-| [P2MS](#p2ms)                  |   233 | [PHOENIXD](#phoenixd)          |   245 |
-| [P2PK](#p2pk)                  |   233 | [PHRASE DE RÉCUPÉRATION](#phrase-de-récupération) |   245 |
-| [P2PKH](#p2pkh)                |   233 | [PILE](#pile)                  |   246 |
+| [P2MS](#p2ms)                  |   233 | [PHRASE DE RÉCUPÉRATION](#phrase-de-récupération) |   245 |
+| [P2PK](#p2pk)                  |   233 | [PILE](#pile)                  |   246 |
+| [P2PKH](#p2pkh)                |   233 | [PILULE ORANGE](#pilule-orange) |   246 |
 | [P2P TRANSPORT V2](#p2p-transport-v2) |   234 | [PIZZA DAY](#pizza-day)        |   246 |
 | [P2SH](#p2sh)                  |   235 | [POINT D'ENTRÉE](#point-dentrée) |   246 |
 | [P2SH-P2WPKH](#p2sh-p2wpkh)    |   234 | [POLICY (MINISCRIPT)](#policy-miniscript) |   247 |
@@ -621,20 +621,21 @@ Le 24 avril 2024, les deux cofondateurs de Samourai Wallet ont été injustement
 | [PAIR ENTRANT](#pair-entrant)  |   238 | [POT (PAY ON TARGET)](#pot-pay-on-target) |   250 |
 | [PAIR SORTANT](#pair-sortant)  |   238 | [PPA](#ppa)                    |   250 |
 | [PANNE BYZANTINE](#panne-byzantine) |   238 | [PPLNS (PAY PER LAST N SHARES)](#pplns-pay-per-last-n-shares) |   250 |
-| [PAPER WALLET](#paper-wallet)  |   239 | [PPLNSG](#pplnsg)              |   250 |
+| [PAPER WALLET](#paper-wallet)  |   239 | [PPLNSG](#pplnsg)              |   251 |
 | [PASSPHRASE (BIP39)](#passphrase-bip39) |   239 | [PPS (PAY PER SHARE)](#pps-pay-per-share) |   251 |
 | [PATHFINDING](#pathfinding)    |   240 | [PRÉFIXES BINAIRES](#préfixes-binaires) |   251 |
 | [PATOSHI](#patoshi)            |   240 | [PREMIUM](#premium)            |   251 |
 | [PAYJOIN](#payjoin)            |   241 | [PREUVE DE RÉSERVES](#preuve-de-réserves) |   252 |
 | [PAYNYM](#paynym)              |   241 | [PREUVE DE TRAVAIL](#preuve-de-travail) |   252 |
 | [PBKDF2](#pbkdf2)              |   242 | [PRIME DE PROXIMITÉ](#prime-de-proximité) |   253 |
-| [PEDERSEN COMMITMENT](#pedersen-commitment) |   242 | [PROB. DES GÉNÉRAUX BYZANTINS](#prob.-des-généraux-byzantins) |   253 |
+| [PEDERSEN COMMITMENT](#pedersen-commitment) |   242 | [PROB. DES GÉNÉRAUX BYZANTINS](#prob.-des-généraux-byzantins) |   254 |
 | [PEER DISCOVERY](#peer-discovery) |   243 | [PROFONDEUR](#profondeur)      |   254 |
 | [PEERS.DAT](#peers.dat)        |   243 | [PROOF-OF-KEY DAY](#proof-of-key-day) |   255 |
 | [PERCOLATION](#percolation)    |   243 | [PROP (PROPORTIONAL)](#prop-proportional) |   255 |
 | [PÉRIMÉ (BLOC)](#périmé-bloc)  |   244 | [PSBT](#psbt)                  |   255 |
 | [PÉRIODE DE MATURITÉ](#période-de-maturité) |   244 | [PSEUDO-ALÉATOIRE](#pseudo-aléatoire) |   256 |
 | [PHOENIX](#phoenix)            |   244 | [PULL REQUEST](#pull-request)  |   257 |
+| [PHOENIXD](#phoenixd)          |   245 |                                |       |
 | | | | |
 
 
@@ -6693,6 +6694,15 @@ Dans l'exécution d'un script Bitcoin, 2 piles peuvent être utilisées : la pil
 Par exemple, lors de la validation d'une transaction, les signatures et les clés publiques sont poussées sur la pile principale et traitées par des opcodes successifs pour vérifier que les signatures correspondent aux clés et aux données de la transaction.
 
 > ► *En anglais, la traduction de « pile » est « stack ». On utilise généralement le terme anglais même en français lors de discussions techniques. Pour plus d'informations, voir les définitions de **[SCRIPT](#script)** et **[OPCODES](#opcodes)**.*
+
+## PILULE ORANGE
+▪ **Histoire**
+
+► ***EN : ORANGE PILL***
+
+Inspirée du film *Matrix*, cette pilule imaginaire éveille à la conscience de Bitcoin. 
+
+> ► *S'utilise également comme verbe. Orange-piller quelqu'un = l'enrôler dans Bitcoin.*
 
 ## PIZZA DAY
 ▪ **Histoire**
